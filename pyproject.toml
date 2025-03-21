@@ -1,12 +1,8 @@
 [tool.poetry]
-name = "langflow-streamlit"
+name = "Faya Chat"
 version = "0.1.8"
 description = ""
-authors = ["YAITEC <contact@yaitec.org>"]
-maintainers = [
-    "João Pedro M. C. Hluchan <berrytern@gmail.com>",
-    "João Oliveira <joao@yaitec.org>"
-]
+authors = ["Faya <faya@playmc2.com>"]
 license = "MIT"
 packages = [
     {include = "langflow_streamlit"},
