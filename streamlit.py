@@ -32,7 +32,7 @@ def reload_messages():
 
 reload_messages()
 
-st.title("Welcome to Faya")
+st.title("Welcome to Faya!")
 
 def callback(*args, **kwargs):
     pass
